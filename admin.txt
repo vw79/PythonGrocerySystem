@@ -1,0 +1,2 @@
+admin|pikiadmin@hotmail.com|admin|ADMIN|female|1-1-2001|0123456789|7, taman, kl
+chenga|chengadmin@hotmail.com|qwerasdf|chengYJ|male|1-1-2001|0987654321|8, taman impian emas, jb

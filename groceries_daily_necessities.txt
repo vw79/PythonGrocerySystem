@@ -1,0 +1,6 @@
+d1|Daily 1|RM 4.10|1 Jan 20230|1|ajkhfhaugbjqhev
+d2|Daily 2|RM 5.40|2 Feb 2023|82|b
+d3|Daily 3|RM 18.20|3 Mar 2023|80|c
+d4|Daily 4|RM25.90|4 Apr 2023|75|d
+d5|Daily 5|RM12.50|5 May 2023|73|e
+d6|Daily 6|RM13.70|6 Jun 2023|66|f

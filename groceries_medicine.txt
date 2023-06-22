@@ -1,0 +1,6 @@
+m1|Medicine 1|RM 4.10|1 Jan 2023|77|g
+m2|Medicine 2|RM 5.40|2 Feb 2023|88|h
+m3|Medicine 3|RM 18.20|3 Mar 2023|86|i
+m4|Medicine 4|RM25.90|4 Apr 2023|75|j
+m5|Medicine 5|RM12.50|5 May 2023|62|k
+m6|Medicine 6|RM13.70|6 Jun 2023|78|l
